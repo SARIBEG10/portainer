@@ -8,5 +8,5 @@ STEPS:
 - cd /portainer
 - Run: docker image pull portainer/portainer-ce:lts
 - Run: docker compose up -d
-- open browser => http://your-host-ip:9000
+- open browser => http://{your-host-ip}:9000
   
